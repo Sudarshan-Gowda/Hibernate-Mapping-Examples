@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+	<parent>
+		<groupId>com.star.sud</groupId>
+		<artifactId>pom</artifactId>
+		<version>1.0.0-RELEASE</version>
+	</parent>
+
+	<modelVersion>4.0.0</modelVersion>
+	<artifactId>one-to-many</artifactId>
+	<version>1.0.1</version>
+	<name>One To Many Mapping</name>
+	<description>Basic Example For One To Many Mapping</description>
+</project>
